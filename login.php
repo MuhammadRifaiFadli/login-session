@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$username = 'pai';
+$username = 'username';
 $password = '1234';
 
 if (isset($_POST['username']) && isset($_POST['password'])) {

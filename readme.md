@@ -1,5 +1,7 @@
 # Aplikasi Login Dashboard dengan PHP
 
+<img src="login.png">
+
 ## Deskripsi
 
 Aplikasi ini adalah sistem login sederhana yang memungkinkan pengguna untuk masuk ke dalam dashboard menggunakan PHP untuk pengelolaan sesion, HTML untuk struktur tampilan, dan CSS untuk desain. Aplikasi ini dirancang untuk memberikan pemahaman dasar tentang pengelolaan sesi dan otentikasi pengguna di PHP.
